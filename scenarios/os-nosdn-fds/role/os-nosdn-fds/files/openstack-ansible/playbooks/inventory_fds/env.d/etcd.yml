@@ -1,3 +1,4 @@
+---
 component_skel:
   etcd:
     belongs_to:
