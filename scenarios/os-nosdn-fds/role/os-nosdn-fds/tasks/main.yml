@@ -3,7 +3,7 @@
 - name: Provide etcd inventory
   copy:
     src: openstack-ansible/playbooks/inventory_fds/env.d/etcd.yml
-    dest: "{{OPENSTACK_OSA_PATH}}/playbooks/inventory/env.d/etcd.yml"
+    dest: "{{OPENSTACK_OSA_PATH}}/inventory/env.d/etcd.yml"
 
 - name: copy openstack_user_config
   copy:
