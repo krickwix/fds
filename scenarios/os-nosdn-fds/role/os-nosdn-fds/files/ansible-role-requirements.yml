@@ -49,7 +49,7 @@
 - name: os_keystone
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_keystone
-  version: 17f702aa093579e61b482c7496e2a1f056819483
+  version: stable/queens
 - name: openstack_openrc
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-openstack_openrc
@@ -57,51 +57,51 @@
 - name: os_aodh
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_aodh
-  version: 492ff856886ab096329dee337728e7c88482e9f9
+  version: stable/queens
 - name: os_barbican
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_barbican
-  version: bb2b7264292e7a957c66b95ac412a94c0d8e407d
+  version: stable/queens
 - name: os_ceilometer
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_ceilometer
-  version: 0b88342fa352f2bc048104f66c9476f465d1d23d
+  version: stable/queens
 - name: os_cinder
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_cinder
-  version: 782c27cf60aa57cc2168ca51b6a8a7f2b43acfc6
+  version: stable/queens
 - name: os_designate
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_designate
-  version: e9c1d198a4dcb645f7c1f3cff22e98dab180315a
+  version: stable/queens
 - name: os_glance
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_glance
-  version: 6c5c8d3d915f506a60b89251bd5caaba3b383ef0
+  version: stable/queens
 - name: os_gnocchi
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_gnocchi
-  version: 4891d9bdfb4569f3097373f2fb2e677795663a52
+  version: stable/queens
 - name: os_heat
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_heat
-  version: dda5325225213c095c7c5697f30df8c41bcd9d4e
+  version: stable/queens
 - name: os_horizon
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_horizon
-  version: ec13e3b9e0c46616812c9278ddd606fdd3082682
+  version: stable/queens
 - name: os_ironic
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_ironic
-  version: 5b7f9f342f2346aa38f69204936d0d428800afed
+  version: stable/queens
 - name: os_magnum
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_magnum
-  version: 1d55c75816b7eed495806e1793cbe130804af8fc
+  version: stable/queens
 - name: os_molteniron
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_molteniron
-  version: 07c6cdc462a56e6c76e5071414d35da3878aa14f
+  version: stable/queens
 - name: os_neutron
   scm: git
   src: https://github.com/krickwix/openstack-ansible-os_neutron.git
@@ -109,35 +109,35 @@
 - name: os_nova
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_nova
-  version: d0154df0818cb1b97537e1d65409818959a021d4
+  version: stable/queens
 - name: os_octavia
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_octavia
-  version: 23ad1f1828c5ab1737cbaf48cd4b4a83f67a45d4
+  version: stable/queens
 - name: os_rally
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_rally
-  version: 6c4e344def546adf76545d741a6ef24e5cbf7daa
+  version: stable/queens
 - name: os_sahara
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_sahara
-  version: 06c328e1872cdce959bfa1e5c6cedf3c4cde65a6
+  version: stable/queens
 - name: os_swift
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_swift
-  version: 37eb776041ad324a01bc673da0eb7894566f419d
+  version: stable/queens
 - name: os_tacker
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_tacker
-  version: 68305ee8e03885967c95520614e50ba84176f5c1
+  version: stable/queens
 - name: os_tempest
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_tempest
-  version: 48d9b6d46965462aa01ef353ca06ffdbc5b55c33
+  version: stable/queens
 - name: os_trove
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_trove
-  version: a63122f8fdffdf19719788911999fdb0e3b13fa5
+  version: stable/queens
 - name: plugins
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-plugins
