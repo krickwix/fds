@@ -105,7 +105,7 @@
 - name: os_neutron
   scm: git
   src: https://github.com/krickwix/openstack-ansible-os_neutron.git
-  version: vpp-revert
+  version: os-nosdn-fds
 - name: os_nova
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_nova
