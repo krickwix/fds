@@ -13,7 +13,7 @@
 - name: copy ansible role requirements
   copy:
     src: "ansible-role-requirements.yml"
-    dest: "{{OPENSTACK_OSA_ETC_PATH}}/ansible-role-requirements.yml"
+    dest: "{{OPENSTACK_OSA_PATH}}//ansible-role-requirements.yml"
 
 - name: copy user_vpp_scenario_variables
   copy:
