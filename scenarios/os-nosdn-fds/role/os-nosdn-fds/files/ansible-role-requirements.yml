@@ -194,3 +194,7 @@
   scm: git
   src: https://github.com/logan2211/ansible-haproxy-endpoints
   version: 49901861b16b8afaa9bccdbc649ac956610ff22b
+- name: vpp
+  scm: git
+  src: https://github.com/krickwix/fds/scenarios/os-nosdn-vpp/roles/vpp
+  version: master
